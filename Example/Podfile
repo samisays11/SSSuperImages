@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SSSuperImages_Tests' do
+  pod 'SSSuperImages', :path => '../'
+  
+  
+end
