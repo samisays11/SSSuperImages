@@ -1,0 +1,22 @@
+{
+  "name": "SSSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of SSSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Samisays11/SSSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Samisays11": "samuel.uyigue@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Samisays11/SSSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SSSuperImages/Classes/**/*"
+}
